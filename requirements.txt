@@ -1,0 +1,7 @@
+datasets==3.5.0
+evaluate==0.4.3
+nltk==3.9.1
+numpy==2.2.5
+peft==0.15.1
+torch==2.6.0.dev20241112
+transformers==4.50.3
